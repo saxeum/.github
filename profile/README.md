@@ -35,4 +35,4 @@ TypeScript front end, so any OpenAI SDK works by changing one base URL.
 ---
 
 George Treacy — platform and AI engineer, Brisbane.
-gmtreacy@outlook.com · linkedin.com/in/george-treacy
+github.com/gmtreacy · linkedin.com/in/george-treacy · gmtreacy@outlook.com
