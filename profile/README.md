@@ -26,7 +26,7 @@ A FastAPI chat service on AWS ECS behind an ALB, with three Terraform roots and 
 apply-on-merge pipeline. Google OIDC and an email allowlist gate the chat, and liveness and readiness are
 separate endpoints wired to the target group and the container health check.
 
-**Foonix** — [live](https://foonix.net) · [repo](https://github.com/saxeum/foonix)
+**numbat** — [live at foonix.net](https://foonix.net) · [repo](https://github.com/saxeum/numbat)
 
 A live OpenAI-compatible gateway fronting the free tiers of Gemini, NVIDIA and Groq. Bring your own key, keys
 encrypted at rest, scoped revocable API tokens, a streaming chat UI, and Cloudflare Workers with a React and
